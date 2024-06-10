@@ -11,16 +11,16 @@ Software Engineering is the systematic application of engineering principles met
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
-Software Engineering isis the systematic application of engineering principles methods and tools to the develoment , testing ,deploymet and maintanaince of software products. Differention      : Traditional development emphasizes hardware, while software development prioritizes software.
-                    Process: Traditional development follows a waterfall model, while software development uses agile methodologies.
-                    Coding: Traditional development relies on hardware-specific code, while software development uses platform-independent code.
-                    Testing: Traditional development emphasizes manual and late-stage testing, while software development emphasizes automated and continuous testing.
-                    Documentation: Traditional development involves extensive and manual documentation, while software development uses agile documentation methods.
-                    Team Collaboration: Traditional development separates teams, while software development fosters cross-functional collaboration.
-                    Deployment: Traditional development involves complex deployment, while software development uses automated and continuous deployment.
-                    Maintenance: Traditional development has costly and ongoing maintenance, while software development has more efficient maintenance.
-                    Scalability: Traditional development has limited scalability, while software development offers easy scalability through cloud platforms.
-                    Cost: Traditional development has high upfront investment, while software development has lower upfront costs but higher ongoing costs.
+Software Engineering is the systematic application of engineering principles methods and tools to the develoment , testing ,deploymet and maintanaince of software products. Differention      : Traditional development emphasizes hardware, while software development prioritizes software.
+Process: Traditional development follows a waterfall model, while software development uses agile methodologies.
+ Coding: Traditional development relies on hardware-specific code, while software development uses platform-independent code.
+ Testing: Traditional development emphasizes manual and late-stage testing, while software development emphasizes automated and continuous testing.
+ Documentation: Traditional development involves extensive and manual documentation, while software development uses agile documentation methods.
+  Team Collaboration: Traditional development separates teams, while software development fosters cross-functional collaboration.
+ Deployment: Traditional development involves complex deployment, while software development uses automated and continuous deployment.
+ Maintenance: Traditional development has costly and ongoing maintenance, while software development has more efficient maintenance.
+Scalability: Traditional development has limited scalability, while software development offers easy scalability through cloud platforms.
+ Cost: Traditional development has high upfront investment, while software development has lower upfront costs but higher ongoing costs.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Phrase of the software Development Life cycles are 
